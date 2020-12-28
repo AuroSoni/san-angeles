@@ -1,0 +1,3 @@
+D:/Downloads/ndk-samples-master/ndk-samples-master/san-angeles/app/.cxx/cmake/release/x86/CMakeFiles/sanangeles.dir
+D:/Downloads/ndk-samples-master/ndk-samples-master/san-angeles/app/.cxx/cmake/release/x86/CMakeFiles/edit_cache.dir
+D:/Downloads/ndk-samples-master/ndk-samples-master/san-angeles/app/.cxx/cmake/release/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "PROCESSED_RES",
+    "kind": "Directory"
+  },
+  "applicationId": "com.example.SanAngeles",
+  "variantName": "processDebugResources",
+  "elements": [
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "x86"
+        }
+      ],
+      "versionCode": 4000001,
+      "versionName": "1.0",
+      "outputFile": "resources-x86Debug.ap_"
+    }
+  ]
+}

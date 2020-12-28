@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:2:1-17:12
+INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:3:11-43
+		INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:2:1-17:12
+		INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:2:1-17:12
+		INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:4:3-16:17
+	android:label
+		ADDED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:8:7-39
+	android:fullBackupContent
+		ADDED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:6:7-40
+	android:icon
+		ADDED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:5:7-34
+activity#com.example.SanAngeles.DemoActivity
+ADDED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:9:5-15:16
+	android:label
+		ADDED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:10:15-47
+	android:name
+		ADDED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:9:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:11:7-14:23
+action#android.intent.action.MAIN
+ADDED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:12:9-61
+	android:name
+		ADDED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:12:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:13:9-69
+	android:name
+		ADDED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:13:19-66
+uses-sdk
+INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml
+INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml
+INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml
+INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml
