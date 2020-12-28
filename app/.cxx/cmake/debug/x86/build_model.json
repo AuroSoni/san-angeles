@@ -170,7 +170,6 @@
       "project": {
         "compilerSettingsCacheFolder": "D:\\Downloads\\ndk-samples-master\\ndk-samples-master\\san-angeles\\.cxx",
         "cxxFolder": "D:\\Downloads\\ndk-samples-master\\ndk-samples-master\\san-angeles\\.cxx",
-        "ideBuildTargetAbi": "x86,armeabi-v7a,armeabi",
         "isBuildOnlyTargetAbiEnabled": true,
         "isCmakeBuildCohabitationEnabled": false,
         "isNativeCompilerSettingsCacheEnabled": false,
@@ -198,6 +197,8 @@
     "objFolder": "D:\\Downloads\\ndk-samples-master\\ndk-samples-master\\san-angeles\\app\\build\\intermediates\\cmake\\debug\\obj",
     "variantName": "debug",
     "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
       "X86"
     ],
     "prefabDirectory": "D:\\Downloads\\ndk-samples-master\\ndk-samples-master\\san-angeles\\app\\.cxx\\cmake\\debug\\prefab",

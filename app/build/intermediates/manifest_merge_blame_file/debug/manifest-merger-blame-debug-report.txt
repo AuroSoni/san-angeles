@@ -19,26 +19,25 @@
 14-->D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:6:7-40
 15        android:icon="@mipmap/ic_launcher"
 15-->D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:7:7-41
-16        android:label="@string/app_name"
+16        android:label="@string/app_name" >
 16-->D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:8:7-39
-17        android:testOnly="true" >
-18        <activity
-18-->D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:9:5-15:16
-19            android:name="com.example.SanAngeles.DemoActivity"
-19-->D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:9:15-43
-20            android:label="@string/app_name" >
-20-->D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:10:15-47
-21            <intent-filter>
-21-->D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:11:7-14:23
-22                <action android:name="android.intent.action.MAIN" />
-22-->D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:12:9-61
-22-->D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:12:17-58
-23
-24                <category android:name="android.intent.category.LAUNCHER" />
-24-->D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:13:9-69
-24-->D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:13:19-66
-25            </intent-filter>
-26        </activity>
-27    </application>
-28
-29</manifest>
+17        <activity
+17-->D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:9:5-15:16
+18            android:name="com.example.SanAngeles.DemoActivity"
+18-->D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:9:15-43
+19            android:label="@string/app_name" >
+19-->D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:10:15-47
+20            <intent-filter>
+20-->D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:11:7-14:23
+21                <action android:name="android.intent.action.MAIN" />
+21-->D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:12:9-61
+21-->D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:12:17-58
+22
+23                <category android:name="android.intent.category.LAUNCHER" />
+23-->D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:13:9-69
+23-->D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\src\main\AndroidManifest.xml:13:19-66
+24            </intent-filter>
+25        </activity>
+26    </application>
+27
+28</manifest>

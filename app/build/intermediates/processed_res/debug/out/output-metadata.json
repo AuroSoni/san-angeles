@@ -18,6 +18,30 @@
       "versionCode": 4000001,
       "versionName": "1.0",
       "outputFile": "resources-x86Debug.ap_"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "arm64-v8a"
+        }
+      ],
+      "versionCode": 2000001,
+      "versionName": "1.0",
+      "outputFile": "resources-arm64-v8aDebug.ap_"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "armeabi-v7a"
+        }
+      ],
+      "versionCode": 1000001,
+      "versionName": "1.0",
+      "outputFile": "resources-armeabi-v7aDebug.ap_"
     }
   ]
 }

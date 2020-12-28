@@ -1,0 +1,7 @@
+Executable : C:\Users\aurok\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\.cxx\cmake\debug\arm64-v8a
+sanangeles
+jvmArgs : 
+
