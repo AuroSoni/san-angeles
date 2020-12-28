@@ -5,8 +5,27 @@ Id flags:
 
 The output was:
 1
-C:\MinGW\bin\ld.exe: unrecognised emulation mode: i386pep
-Supported emulations: i386pe
+lld-link: error: C:\MinGW\lib\crt2.o: machine type x86 conflicts with x64
+lld-link: error: C:\MinGW\lib\gcc\mingw32\9.2.0\crtbegin.o: machine type x86 conflicts with x64
+lld-link: error: C:\MinGW\lib\gcc\mingw32\9.2.0\crtend.o: machine type x86 conflicts with x64
+lld-link: error: libmingw32.a(CRTglob.o): machine type x86 conflicts with x64
+lld-link: error: libmingw32.a(setargv.o): machine type x86 conflicts with x64
+lld-link: error: libmingw32.a(CRTfmode.o): machine type x86 conflicts with x64
+lld-link: error: libmingw32.a(cpu_features.o): machine type x86 conflicts with x64
+lld-link: error: libmingw32.a(CRT_fp10.o): machine type x86 conflicts with x64
+lld-link: error: libmingw32.a(txtmode.o): machine type x86 conflicts with x64
+lld-link: error: libmingw32.a(main.o): machine type x86 conflicts with x64
+lld-link: error: libmingw32.a(gccmain.o): machine type x86 conflicts with x64
+lld-link: error: libmingw32.a(tlssup.o): machine type x86 conflicts with x64
+lld-link: error: libmingw32.a(pseudo-reloc.o): machine type x86 conflicts with x64
+lld-link: error: libmingwex.a(fesetenv.o): machine type x86 conflicts with x64
+lld-link: error: libmsvcrt.a(dzsrlbs01223.o): machine type x86 conflicts with x64
+lld-link: error: libmsvcrt.a(dzsrlbs01085.o): machine type x86 conflicts with x64
+lld-link: error: libmsvcrt.a(dzsrlbs00747.o): machine type x86 conflicts with x64
+lld-link: error: libmsvcrt.a(dzsrlbs00683.o): machine type x86 conflicts with x64
+lld-link: error: libmsvcrt.a(dzsrlbs00411.o): machine type x86 conflicts with x64
+lld-link: error: libmsvcrt.a(dzsrlbs00214.o): machine type x86 conflicts with x64
+lld-link: error: too many errors emitted, stopping now (use /errorlimit:0 to see all errors)
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 
 
@@ -17,8 +36,27 @@ Id flags:
 
 The output was:
 1
-C:\MinGW\bin\ld.exe: unrecognised emulation mode: i386pep
-Supported emulations: i386pe
+lld-link: error: C:\MinGW\lib\crt2.o: machine type x86 conflicts with x64
+lld-link: error: C:\MinGW\lib\gcc\mingw32\9.2.0\crtbegin.o: machine type x86 conflicts with x64
+lld-link: error: C:\MinGW\lib\gcc\mingw32\9.2.0\crtend.o: machine type x86 conflicts with x64
+lld-link: error: libmingw32.a(CRTglob.o): machine type x86 conflicts with x64
+lld-link: error: libmingw32.a(setargv.o): machine type x86 conflicts with x64
+lld-link: error: libmingw32.a(CRTfmode.o): machine type x86 conflicts with x64
+lld-link: error: libmingw32.a(cpu_features.o): machine type x86 conflicts with x64
+lld-link: error: libmingw32.a(CRT_fp10.o): machine type x86 conflicts with x64
+lld-link: error: libmingw32.a(txtmode.o): machine type x86 conflicts with x64
+lld-link: error: libmingw32.a(main.o): machine type x86 conflicts with x64
+lld-link: error: libmingw32.a(gccmain.o): machine type x86 conflicts with x64
+lld-link: error: libmingw32.a(tlssup.o): machine type x86 conflicts with x64
+lld-link: error: libmingw32.a(pseudo-reloc.o): machine type x86 conflicts with x64
+lld-link: error: libmingwex.a(fesetenv.o): machine type x86 conflicts with x64
+lld-link: error: libmsvcrt.a(dzsrlbs01223.o): machine type x86 conflicts with x64
+lld-link: error: libmsvcrt.a(dzsrlbs01085.o): machine type x86 conflicts with x64
+lld-link: error: libmsvcrt.a(dzsrlbs00747.o): machine type x86 conflicts with x64
+lld-link: error: libmsvcrt.a(dzsrlbs00683.o): machine type x86 conflicts with x64
+lld-link: error: libmsvcrt.a(dzsrlbs00411.o): machine type x86 conflicts with x64
+lld-link: error: libmsvcrt.a(dzsrlbs00214.o): machine type x86 conflicts with x64
+lld-link: error: too many errors emitted, stopping now (use /errorlimit:0 to see all errors)
 clang++: error: linker command failed with exit code 1 (use -v to see invocation)
 
 

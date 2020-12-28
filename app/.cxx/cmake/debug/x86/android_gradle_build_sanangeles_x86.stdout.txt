@@ -1,2 +1,0 @@
-ninja: Entering directory `D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\.cxx\cmake\debug\x86'
-ninja: no work to do.
