@@ -18,30 +18,6 @@
       "versionCode": 4000001,
       "versionName": "1.0",
       "outputFile": "app-x86-debug.apk"
-    },
-    {
-      "type": "ONE_OF_MANY",
-      "filters": [
-        {
-          "filterType": "ABI",
-          "value": "arm64-v8a"
-        }
-      ],
-      "versionCode": 2000001,
-      "versionName": "1.0",
-      "outputFile": "app-arm64-v8a-debug.apk"
-    },
-    {
-      "type": "ONE_OF_MANY",
-      "filters": [
-        {
-          "filterType": "ABI",
-          "value": "armeabi-v7a"
-        }
-      ],
-      "versionCode": 1000001,
-      "versionName": "1.0",
-      "outputFile": "app-armeabi-v7a-debug.apk"
     }
   ]
 }
