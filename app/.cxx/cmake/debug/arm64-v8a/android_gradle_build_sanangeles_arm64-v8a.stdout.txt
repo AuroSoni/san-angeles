@@ -1,2 +1,3 @@
 ninja: Entering directory `D:\Downloads\ndk-samples-master\ndk-samples-master\san-angeles\app\.cxx\cmake\debug\arm64-v8a'
-ninja: no work to do.
+[1/2] Building C object CMakeFiles/sanangeles.dir/demo.c.o
+[2/2] Linking C shared library libsanangeles.so

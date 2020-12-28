@@ -1,0 +1,7 @@
+# ninja log v5
+0	95	630850871	CMakeFiles/sanangeles.dir/app-android.c.o	34cde06e7af1615a
+31	100	630850871	CMakeFiles/sanangeles.dir/importgl.c.o	104bdd2cb14c6d4f
+16	132	630850871	CMakeFiles/sanangeles.dir/demo.c.o	4229f8a953c27b40
+133	266	630850871	libsanangeles.so	47525c17d3cb3da2
+3	116	630850923	CMakeFiles/sanangeles.dir/demo.c.o	4229f8a953c27b40
+116	260	630850923	libsanangeles.so	47525c17d3cb3da2

@@ -295,11 +295,11 @@ static GLOBJECT * createSuperShape(const float *params)
                      i < (currentVertex + 6) * 4;
                      i += 4)
                 {
-                    int a, color[3];
-                    for (a = 0; a < 3; ++a)
+                    int la, color[3];
+                    for (la = 0; la < 3; ++la)
                     {
-                        color[a] = (int)(ca * baseColor[a] * 255);
-                        if (color[a] > 255) color[a] = 255;
+                        color[la] = (int)(ca * baseColor[la] * 255);
+                        if (color[la] > 255) color[la] = 255;
                     }
                     result->colorArray[i] = (GLubyte)color[0];
                     result->colorArray[i + 1] = (GLubyte)color[1];
